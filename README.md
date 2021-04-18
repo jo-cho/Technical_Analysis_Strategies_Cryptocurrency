@@ -6,7 +6,7 @@ Different trading strategies using technical analysis.
   1. SMA (Simple Moving Average) Crossover strategy
 
 
-- Data: Ethereum/USD 30 minutes bars, '2020-10-1' to '2020-4-18'
+- Data: Ethereum/USD 5 minutes bars, '2020-10-1' to '2020-4-18'
 
 - Trading
   - Only long  position
