@@ -21,4 +21,5 @@ Different trading strategies using technical analysis.
 
 - Backtest
   - Cumulative Returns plot
-  - Total Sharpe Ratio
+  - Ann Sharpe Ratio
+  - Benchmark (daily trading returns)
