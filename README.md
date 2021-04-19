@@ -4,9 +4,14 @@ Different trading strategies using technical analysis.
 
 - Strategies
   1. SMA (Simple Moving Average) Crossover strategy
+  2. Envelope SMA Strategy
+  3. BB (Bollinger Bands) strategy
+  4. RSI signal strategy
+  5. Stochastic slow %K strategy
+  6. Stochastic slow %K %D strategy
 
 
-- Data: Ethereum/USD 5 minutes bars, '2020-10-1' to '2020-4-18'
+- Data: Ethereum/USD 5 minutes bars, '2020-4-1' to '2020-4-10'
 
 - Trading
   - Only long  position
