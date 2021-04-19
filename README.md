@@ -5,9 +5,9 @@ Different trading strategies using technical analysis.
 - Strategies
   1. SMA (Simple Moving Average) Crossover strategy
   2. Envelope SMA strategy
-  3. MACD strategy
+  3. MACD (Moving average convergence divergence) strategy
   4. BB (Bollinger Bands) strategy
-  5. RSI signal strategy
+  5. RSI (Relative Strength Index) signal strategy
   6. Stochastic slow %K strategy
   7. Stochastic slow %K %D strategy
 
