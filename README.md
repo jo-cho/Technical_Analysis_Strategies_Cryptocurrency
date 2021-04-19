@@ -12,7 +12,7 @@ Different trading strategies using technical analysis.
   7. Stochastic slow %K %D strategy
 
 
-- Data: Ethereum/USD 5 minutes bars, '2020-4-1' to '2020-4-10'
+- Data: Ethereum/USD 5 minutes bars, '2020-4-1' to '2021-4-10'
 
 - Trading
   - Only long  position
