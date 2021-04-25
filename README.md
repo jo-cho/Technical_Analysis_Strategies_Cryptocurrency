@@ -25,7 +25,7 @@ Different trading strategies using technical analysis.
   - Ann Sharpe Ratio
   - Benchmark (daily trading returns)
 
-*Regime Double
+- *Regime Double
   - Two regime: Trend-following, Mean-reverting
   - Decide the regime by rolling hurst exponents (weekly window)
   - Do SMA crossover & BB strategy on each regime.
