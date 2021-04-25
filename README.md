@@ -10,6 +10,7 @@ Different trading strategies using technical analysis.
   5. RSI (Relative Strength Index) signal strategy
   6. Stochastic slow %K strategy
   7. Stochastic slow %K %D strategy
+  8. Regime Double strategy*
 
 
 - Data: Ethereum/USD 5 minutes bars, '2020-4-1' to '2021-4-10'
@@ -23,3 +24,8 @@ Different trading strategies using technical analysis.
   - Cumulative Returns plot
   - Ann Sharpe Ratio
   - Benchmark (daily trading returns)
+
+*Regime Double
+  - Two regime: Trend-following, Mean-reverting
+  - Decide the regime by rolling hurst exponents (weekly window)
+  - Do SMA crossover & BB strategy on each regime.
