@@ -30,3 +30,7 @@ Different trading strategies using technical analysis.
   - Two regime: Trend-following, Mean-reverting
   - Decide the regime by rolling hurst exponents (weekly window)
   - Do SMA crossover & BB strategy on each regime.
+
+- Reference:
+  - https://github.com/bukosabino/ta <-- I used this library, *ta*
+  - wikipedia
