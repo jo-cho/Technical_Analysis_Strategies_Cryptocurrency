@@ -1,6 +1,7 @@
 # Technical_Ananylsis_Cryptocurrnecy
 
-Different trading strategies using technical analysis. 
+Different trading strategies using technical analysis.
+(기술적 분석을 이용한 다양한 트레이딩 전략)
 
 - Strategies
   1. SMA (Simple Moving Average) Crossover strategy
